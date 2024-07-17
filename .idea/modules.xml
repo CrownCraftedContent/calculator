@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/calculator.iml" filepath="$PROJECT_DIR$/.idea/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text_editor/.idea/text_editor.iml" filepath="$PROJECT_DIR$/../text_editor/.idea/text_editor.iml" />
     </modules>
   </component>
 </project>
